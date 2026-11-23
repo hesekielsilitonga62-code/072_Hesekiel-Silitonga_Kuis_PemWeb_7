@@ -1,4 +1,4 @@
-node_modulesnya kau exclude ya kak
+node_modulesnya aku exclude ya kak
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.  Ini adalah menu Home yang disesuaikan denagn referensi 

@@ -12,4 +12,6 @@
    <img width="727" height="552" alt="Screenshot 2026-11-24 002440" src="https://github.com/user-attachments/assets/708540fe-9e66-45f1-a294-4df87c87bc93" />
 
 
-Pembuatan web dibantu dengan "Gemini AI"
+Kak Umri
+Pembuatan webnya dibantu dengan "Gemini AI" yaps, tidak pure akuhhh
+

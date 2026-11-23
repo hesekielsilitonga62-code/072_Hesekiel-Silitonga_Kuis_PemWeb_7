@@ -15,7 +15,6 @@ node_modulesnya aku exclude ya kak
    <img width="727" height="552" alt="Screenshot 2026-11-24 002440" src="https://github.com/user-attachments/assets/708540fe-9e66-45f1-a294-4df87c87bc93" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1.  Ini adalah menu Home yang disesuaikan denagn referensi 
 Kak Umri
 Pembuatan webnya dibantu dengan "Gemini AI" yaps, tidak pure akuhhh
 
